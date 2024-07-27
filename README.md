@@ -31,3 +31,10 @@ This project investigates the population dynamics of North American bird species
 
 - Setup: R and several R packages are required to run these scripts.
 - Installation: git clone https://github.com/GatesDupont/DupontDobson2024.git
+
+## Usage
+
+1. Data Preprocessing: Run the scripts in the scripts/ folder to preprocess the data.
+2. Model Fitting: Use the 02_Model_density_v062724.R script to fit the density models.
+3. Phylogenetic Analysis: Run the 03_drivers_phylo_v2.R script for phylogenetic analysis.
+4. Results: The results of the analyses are saved in the data/BCR-results/ folder.
